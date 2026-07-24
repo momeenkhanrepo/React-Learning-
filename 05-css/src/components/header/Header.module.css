@@ -1,0 +1,14 @@
+.header {
+  padding: 20px;
+  background-color: skyblue;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header button {
+  background-color: hotpink;
+  color: black;
+  padding: 3px 6px;
+  border: none;
+  border-radius: 5px;
+}
