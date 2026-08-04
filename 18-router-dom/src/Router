@@ -1,0 +1,11 @@
+BrowserRouter
+
+Shreyians.com =   /
+Shreyians.com/courses = /courses
+Shreyians.com/about = /about
+
+HashRouter -> bahut kam use hota hai.
+
+MemoryRouter 
+
+StaticsRouter
